@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"uloha1.C": "cpp",
+			"ratio": "cpp",
+			"iostream": "cpp",
+			"array": "cpp",
+			"string": "cpp",
+			"vector": "cpp"
+		}
+	}
+}
